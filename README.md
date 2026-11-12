@@ -1,6 +1,6 @@
 # Lifelings
 
-The public website for Lifelings, a life game for iPhone: a home page, the privacy policy and the support page, served by GitHub Pages.
+The public website for Lifelings, a life game for iPhone and iPad: a home page, the privacy policy and the support page, served by GitHub Pages.
 
 - https://macghani.github.io/lifelings/
 - https://macghani.github.io/lifelings/privacy/
